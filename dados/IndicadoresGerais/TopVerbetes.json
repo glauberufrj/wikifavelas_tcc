@@ -1,0 +1,1278 @@
+{
+    "top_20_total_degree": [
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "total_degree": 313,
+            "quantidade_edicoes": 161,
+            "community_id": 10,
+            "data_criacao": "2020-02-12T13:47:26Z",
+            "data_ultima_edicao": "2025-08-11T14:19:10Z"
+        },
+        {
+            "titulo": "Complexo da Maré",
+            "total_degree": 204,
+            "quantidade_edicoes": 20,
+            "community_id": 2,
+            "data_criacao": "2020-02-20T20:20:05Z",
+            "data_ultima_edicao": "2025-06-26T18:32:41Z"
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19",
+            "total_degree": 137,
+            "quantidade_edicoes": 106,
+            "community_id": 8,
+            "data_criacao": "2023-05-24T18:41:42Z",
+            "data_ultima_edicao": "2025-04-15T14:15:47Z"
+        },
+        {
+            "titulo": "Complexo do Alemão",
+            "total_degree": 121,
+            "quantidade_edicoes": 31,
+            "community_id": 16,
+            "data_criacao": "2020-01-24T05:22:31Z",
+            "data_ultima_edicao": "2025-05-20T15:32:13Z"
+        },
+        {
+            "titulo": "Marielle Franco",
+            "total_degree": 114,
+            "quantidade_edicoes": 61,
+            "community_id": 11,
+            "data_criacao": "2018-10-26T23:20:00Z",
+            "data_ultima_edicao": "2025-05-29T04:11:41Z"
+        },
+        {
+            "titulo": "Rocinha",
+            "total_degree": 111,
+            "quantidade_edicoes": 47,
+            "community_id": 16,
+            "data_criacao": "2020-02-20T20:32:26Z",
+            "data_ultima_edicao": "2025-05-20T14:44:28Z"
+        },
+        {
+            "titulo": "Moradia",
+            "total_degree": 104,
+            "quantidade_edicoes": 19,
+            "community_id": 9,
+            "data_criacao": "2018-12-05T16:32:12Z",
+            "data_ultima_edicao": "2025-02-04T17:10:46Z"
+        },
+        {
+            "titulo": "Cidade de Deus (favela)",
+            "total_degree": 103,
+            "quantidade_edicoes": 34,
+            "community_id": 14,
+            "data_criacao": "2020-01-09T18:44:27Z",
+            "data_ultima_edicao": "2025-04-25T21:39:09Z"
+        },
+        {
+            "titulo": "Chacinas no Brasil",
+            "total_degree": 101,
+            "quantidade_edicoes": 10,
+            "community_id": 6,
+            "data_criacao": "2024-08-02T14:05:33Z",
+            "data_ultima_edicao": "2025-05-14T18:34:30Z"
+        },
+        {
+            "titulo": "Dicionário de Favelas Marielle Franco",
+            "total_degree": 96,
+            "quantidade_edicoes": 362,
+            "community_id": 2,
+            "data_criacao": "2017-08-04T19:31:11Z",
+            "data_ultima_edicao": "2025-05-30T00:03:37Z"
+        },
+        {
+            "titulo": "Redes da Maré",
+            "total_degree": 95,
+            "quantidade_edicoes": 24,
+            "community_id": 2,
+            "data_criacao": "2020-01-09T13:11:50Z",
+            "data_ultima_edicao": "2025-04-28T23:21:37Z"
+        },
+        {
+            "titulo": "Urbanização de favelas no Rio de Janeiro (livro)",
+            "total_degree": 92,
+            "quantidade_edicoes": 5,
+            "community_id": 10,
+            "data_criacao": "2023-12-11T21:23:55Z",
+            "data_ultima_edicao": "2024-02-16T14:44:57Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Rio de Janeiro",
+            "total_degree": 88,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2025-02-07T22:03:12Z",
+            "data_ultima_edicao": "2025-02-07T22:03:12Z"
+        },
+        {
+            "titulo": "Morro da Providência",
+            "total_degree": 88,
+            "quantidade_edicoes": 25,
+            "community_id": 2,
+            "data_criacao": "2020-03-19T13:02:36Z",
+            "data_ultima_edicao": "2025-06-03T18:20:53Z"
+        },
+        {
+            "titulo": "Memória Viva",
+            "total_degree": 88,
+            "quantidade_edicoes": 162,
+            "community_id": 13,
+            "data_criacao": "2024-05-27T17:20:36Z",
+            "data_ultima_edicao": "2025-06-25T19:47:32Z"
+        },
+        {
+            "titulo": "Coronavírus nas favelas",
+            "total_degree": 83,
+            "quantidade_edicoes": 38,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T19:16:45Z",
+            "data_ultima_edicao": "2025-01-28T19:27:40Z"
+        },
+        {
+            "titulo": "Lideranças comunitárias e pesquisadores de coletivos de favelas e periferias",
+            "total_degree": 78,
+            "quantidade_edicoes": 96,
+            "community_id": 2,
+            "data_criacao": "2024-07-20T12:53:29Z",
+            "data_ultima_edicao": "2024-12-17T20:09:10Z"
+        },
+        {
+            "titulo": "Histórias, Memórias, Oralidades e Cartografia da Luta Social por Terra e Moradia na Região de Jacarepaguá",
+            "total_degree": 70,
+            "quantidade_edicoes": 25,
+            "community_id": 14,
+            "data_criacao": "2021-06-08T14:32:40Z",
+            "data_ultima_edicao": "2025-07-29T14:03:55Z"
+        },
+        {
+            "titulo": "Principais chacinas no Rio de Janeiro",
+            "total_degree": 69,
+            "quantidade_edicoes": 150,
+            "community_id": 6,
+            "data_criacao": "2021-05-06T23:22:56Z",
+            "data_ultima_edicao": "2025-05-15T16:32:12Z"
+        },
+        {
+            "titulo": "Chacinas em favelas no Rio de Janeiro",
+            "total_degree": 68,
+            "quantidade_edicoes": 113,
+            "community_id": 6,
+            "data_criacao": "2022-08-31T13:07:03Z",
+            "data_ultima_edicao": "2025-05-15T13:24:55Z"
+        }
+    ],
+    "top_20_betweenness_centrality": [
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "betweenness_centrality": 0.14598630007173113,
+            "quantidade_edicoes": 161,
+            "community_id": 10,
+            "data_criacao": "2020-02-12T13:47:26Z",
+            "data_ultima_edicao": "2025-08-11T14:19:10Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Rio de Janeiro",
+            "betweenness_centrality": 0.09072471423480452,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2025-02-07T22:03:12Z",
+            "data_ultima_edicao": "2025-02-07T22:03:12Z"
+        },
+        {
+            "titulo": "Marielle Franco",
+            "betweenness_centrality": 0.05512111212044738,
+            "quantidade_edicoes": 61,
+            "community_id": 11,
+            "data_criacao": "2018-10-26T23:20:00Z",
+            "data_ultima_edicao": "2025-05-29T04:11:41Z"
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19",
+            "betweenness_centrality": 0.037912729504800936,
+            "quantidade_edicoes": 106,
+            "community_id": 8,
+            "data_criacao": "2023-05-24T18:41:42Z",
+            "data_ultima_edicao": "2025-04-15T14:15:47Z"
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19 e Plano Integrado de Saúde nas Favelas Edital FIOCRUZ",
+            "betweenness_centrality": 0.03671447922462745,
+            "quantidade_edicoes": 1,
+            "community_id": 8,
+            "data_criacao": "2025-04-15T14:05:47Z",
+            "data_ultima_edicao": "2025-04-15T14:05:47Z"
+        },
+        {
+            "titulo": "Dicionário de Favelas Marielle Franco",
+            "betweenness_centrality": 0.03552526451611912,
+            "quantidade_edicoes": 362,
+            "community_id": 2,
+            "data_criacao": "2017-08-04T19:31:11Z",
+            "data_ultima_edicao": "2025-05-30T00:03:37Z"
+        },
+        {
+            "titulo": "Complexo da Maré",
+            "betweenness_centrality": 0.03518759415004793,
+            "quantidade_edicoes": 20,
+            "community_id": 2,
+            "data_criacao": "2020-02-20T20:20:05Z",
+            "data_ultima_edicao": "2025-06-26T18:32:41Z"
+        },
+        {
+            "titulo": "Redes da Maré",
+            "betweenness_centrality": 0.03483970574665494,
+            "quantidade_edicoes": 24,
+            "community_id": 2,
+            "data_criacao": "2020-01-09T13:11:50Z",
+            "data_ultima_edicao": "2025-04-28T23:21:37Z"
+        },
+        {
+            "titulo": "Memória Viva",
+            "betweenness_centrality": 0.03036287689431324,
+            "quantidade_edicoes": 162,
+            "community_id": 13,
+            "data_criacao": "2024-05-27T17:20:36Z",
+            "data_ultima_edicao": "2025-06-25T19:47:32Z"
+        },
+        {
+            "titulo": "Rocinha",
+            "betweenness_centrality": 0.02588269180878353,
+            "quantidade_edicoes": 47,
+            "community_id": 16,
+            "data_criacao": "2020-02-20T20:32:26Z",
+            "data_ultima_edicao": "2025-05-20T14:44:28Z"
+        },
+        {
+            "titulo": "Chacinas em favelas no Rio de Janeiro",
+            "betweenness_centrality": 0.021883003325788186,
+            "quantidade_edicoes": 113,
+            "community_id": 6,
+            "data_criacao": "2022-08-31T13:07:03Z",
+            "data_ultima_edicao": "2025-05-15T13:24:55Z"
+        },
+        {
+            "titulo": "Morro da Providência",
+            "betweenness_centrality": 0.021272689431525976,
+            "quantidade_edicoes": 25,
+            "community_id": 2,
+            "data_criacao": "2020-03-19T13:02:36Z",
+            "data_ultima_edicao": "2025-06-03T18:20:53Z"
+        },
+        {
+            "titulo": "Favelas de Niterói",
+            "betweenness_centrality": 0.019805412970014338,
+            "quantidade_edicoes": 43,
+            "community_id": 10,
+            "data_criacao": "2020-01-17T16:58:47Z",
+            "data_ultima_edicao": "2025-06-26T22:28:23Z"
+        },
+        {
+            "titulo": "Memória e identidade dos moradores de Nova Holanda (livro)",
+            "betweenness_centrality": 0.019424423966799907,
+            "quantidade_edicoes": 10,
+            "community_id": 1,
+            "data_criacao": "2022-12-06T12:28:41Z",
+            "data_ultima_edicao": "2025-04-11T18:55:06Z"
+        },
+        {
+            "titulo": "Apoie as favelas na luta contra o Coronavírus",
+            "betweenness_centrality": 0.019079604242308992,
+            "quantidade_edicoes": 245,
+            "community_id": 8,
+            "data_criacao": "2020-03-23T15:31:25Z",
+            "data_ultima_edicao": "2025-04-15T12:44:22Z"
+        },
+        {
+            "titulo": "Movimentos sociais no Rio de Janeiro (2007-2022)",
+            "betweenness_centrality": 0.018966725968334198,
+            "quantidade_edicoes": 34,
+            "community_id": 2,
+            "data_criacao": "2022-08-12T19:11:36Z",
+            "data_ultima_edicao": "2025-04-08T19:13:55Z"
+        },
+        {
+            "titulo": "Coronavírus nas favelas",
+            "betweenness_centrality": 0.018456559835510693,
+            "quantidade_edicoes": 38,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T19:16:45Z",
+            "data_ultima_edicao": "2025-01-28T19:27:40Z"
+        },
+        {
+            "titulo": "Nova Holanda",
+            "betweenness_centrality": 0.018325082794119964,
+            "quantidade_edicoes": 12,
+            "community_id": 10,
+            "data_criacao": "2025-03-18T16:39:12Z",
+            "data_ultima_edicao": "2025-04-25T21:39:55Z"
+        },
+        {
+            "titulo": "Cidade de Deus (favela)",
+            "betweenness_centrality": 0.018104789801449427,
+            "quantidade_edicoes": 34,
+            "community_id": 14,
+            "data_criacao": "2020-01-09T18:44:27Z",
+            "data_ultima_edicao": "2025-04-25T21:39:09Z"
+        },
+        {
+            "titulo": "146x Favelas",
+            "betweenness_centrality": 0.017258161892478707,
+            "quantidade_edicoes": 23,
+            "community_id": 8,
+            "data_criacao": "2024-07-08T18:47:20Z",
+            "data_ultima_edicao": "2025-05-29T03:48:49Z"
+        }
+    ],
+    "top_20_pagerank": [
+        {
+            "titulo": "Complexo da Maré",
+            "pagerank": 0.00947379076596728,
+            "quantidade_edicoes": 20,
+            "community_id": 2,
+            "data_criacao": "2020-02-20T20:20:05Z",
+            "data_ultima_edicao": "2025-06-26T18:32:41Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "pagerank": 0.007781940130896814,
+            "quantidade_edicoes": 161,
+            "community_id": 10,
+            "data_criacao": "2020-02-12T13:47:26Z",
+            "data_ultima_edicao": "2025-08-11T14:19:10Z"
+        },
+        {
+            "titulo": "Complexo do Alemão",
+            "pagerank": 0.007617048301282918,
+            "quantidade_edicoes": 31,
+            "community_id": 16,
+            "data_criacao": "2020-01-24T05:22:31Z",
+            "data_ultima_edicao": "2025-05-20T15:32:13Z"
+        },
+        {
+            "titulo": "Papo na Laje (programa)",
+            "pagerank": 0.007547539563383632,
+            "quantidade_edicoes": 26,
+            "community_id": 4,
+            "data_criacao": "2022-03-11T20:10:10Z",
+            "data_ultima_edicao": "2025-04-28T23:48:57Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Rio de Janeiro",
+            "pagerank": 0.006475980405572669,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2025-02-07T22:03:12Z",
+            "data_ultima_edicao": "2025-02-07T22:03:12Z"
+        },
+        {
+            "titulo": "Marielle Franco",
+            "pagerank": 0.006113722367242709,
+            "quantidade_edicoes": 61,
+            "community_id": 11,
+            "data_criacao": "2018-10-26T23:20:00Z",
+            "data_ultima_edicao": "2025-05-29T04:11:41Z"
+        },
+        {
+            "titulo": "UPP- A redução da favela a três letras: uma análise da política de segurança pública do Estado do Rio de Janeiro (resenha)",
+            "pagerank": 0.005419357039443385,
+            "quantidade_edicoes": 1,
+            "community_id": 5,
+            "data_criacao": "2023-09-11T19:22:11Z",
+            "data_ultima_edicao": "2023-09-11T19:22:11Z"
+        },
+        {
+            "titulo": "Rocinha",
+            "pagerank": 0.005292177032747841,
+            "quantidade_edicoes": 47,
+            "community_id": 16,
+            "data_criacao": "2020-02-20T20:32:26Z",
+            "data_ultima_edicao": "2025-05-20T14:44:28Z"
+        },
+        {
+            "titulo": "Violência de Estado operações policiais chacinas e um plano",
+            "pagerank": 0.00525232634056272,
+            "quantidade_edicoes": 9,
+            "community_id": 6,
+            "data_criacao": "2022-05-20T19:30:30Z",
+            "data_ultima_edicao": "2025-05-01T16:41:37Z"
+        },
+        {
+            "titulo": "Remoções de favelas no Rio de Janeiro",
+            "pagerank": 0.004927898959182104,
+            "quantidade_edicoes": 17,
+            "community_id": 9,
+            "data_criacao": "2019-08-03T21:35:35Z",
+            "data_ultima_edicao": "2024-06-13T21:20:26Z"
+        },
+        {
+            "titulo": "Cidade de Deus (favela)",
+            "pagerank": 0.004788571560779491,
+            "quantidade_edicoes": 34,
+            "community_id": 14,
+            "data_criacao": "2020-01-09T18:44:27Z",
+            "data_ultima_edicao": "2025-04-25T21:39:09Z"
+        },
+        {
+            "titulo": "UPP - A redução da favela a três letras - uma análise da política de segurança pública do Estado do Rio de Janeiro (resenha)",
+            "pagerank": 0.004769818982582592,
+            "quantidade_edicoes": 10,
+            "community_id": 5,
+            "data_criacao": "2021-11-17T13:48:36Z",
+            "data_ultima_edicao": "2025-04-29T18:09:45Z"
+        },
+        {
+            "titulo": "Morro da Providência",
+            "pagerank": 0.004616475379994686,
+            "quantidade_edicoes": 25,
+            "community_id": 2,
+            "data_criacao": "2020-03-19T13:02:36Z",
+            "data_ultima_edicao": "2025-06-03T18:20:53Z"
+        },
+        {
+            "titulo": "Coronavírus nas favelas",
+            "pagerank": 0.0043994403406472735,
+            "quantidade_edicoes": 38,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T19:16:45Z",
+            "data_ultima_edicao": "2025-01-28T19:27:40Z"
+        },
+        {
+            "titulo": "Favela de Manguinhos",
+            "pagerank": 0.004209727314678634,
+            "quantidade_edicoes": 22,
+            "community_id": 3,
+            "data_criacao": "2020-02-20T20:14:28Z",
+            "data_ultima_edicao": "2025-02-27T16:54:05Z"
+        },
+        {
+            "titulo": "Santa Marta Favela",
+            "pagerank": 0.003971181119559876,
+            "quantidade_edicoes": 11,
+            "community_id": 5,
+            "data_criacao": "2021-12-14T14:37:44Z",
+            "data_ultima_edicao": "2025-06-05T19:47:46Z"
+        },
+        {
+            "titulo": "Moradia",
+            "pagerank": 0.003966756380498011,
+            "quantidade_edicoes": 19,
+            "community_id": 9,
+            "data_criacao": "2018-12-05T16:32:12Z",
+            "data_ultima_edicao": "2025-02-04T17:10:46Z"
+        },
+        {
+            "titulo": "Remoções - O resultado da gentrificação na favela (documentário)",
+            "pagerank": 0.00391991991961551,
+            "quantidade_edicoes": 28,
+            "community_id": 9,
+            "data_criacao": "2019-08-29T01:53:17Z",
+            "data_ultima_edicao": "2025-05-05T23:07:57Z"
+        },
+        {
+            "titulo": "Manguinhos tem fome de direitos (cartilha)",
+            "pagerank": 0.0038192752866409827,
+            "quantidade_edicoes": 16,
+            "community_id": 3,
+            "data_criacao": "2020-02-13T18:56:42Z",
+            "data_ultima_edicao": "2025-04-15T14:23:03Z"
+        },
+        {
+            "titulo": "Redes da Maré",
+            "pagerank": 0.0037702911663368296,
+            "quantidade_edicoes": 24,
+            "community_id": 2,
+            "data_criacao": "2020-01-09T13:11:50Z",
+            "data_ultima_edicao": "2025-04-28T23:21:37Z"
+        }
+    ],
+    "top_20_clustering_coefficient": [
+        {
+            "titulo": "A cor da mobilidade (artigo)",
+            "clustering_coefficient": 0.9285714285714286,
+            "quantidade_edicoes": 8,
+            "community_id": 11,
+            "data_criacao": "2022-01-19T16:44:31Z",
+            "data_ultima_edicao": "2025-04-16T14:35:35Z"
+        },
+        {
+            "titulo": "Comunidades Ampliada de Pesquisa-Ação",
+            "clustering_coefficient": 0.9047619047619048,
+            "quantidade_edicoes": 1,
+            "community_id": 8,
+            "data_criacao": "2023-12-11T23:15:46Z",
+            "data_ultima_edicao": "2023-12-11T23:15:46Z"
+        },
+        {
+            "titulo": "Comissão de Desenvolvimento Social da Área da Maré",
+            "clustering_coefficient": 0.9,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2023-06-12T23:11:55Z",
+            "data_ultima_edicao": "2023-06-12T23:11:55Z"
+        },
+        {
+            "titulo": "3º Encontro Providência ODS3",
+            "clustering_coefficient": 0.8888888888888888,
+            "quantidade_edicoes": 22,
+            "community_id": 8,
+            "data_criacao": "2025-02-24T21:15:50Z",
+            "data_ultima_edicao": "2025-06-02T17:02:53Z"
+        },
+        {
+            "titulo": "Estudo Global: Habitação de Gestão Comunitária no contexto da COVID-19 (pesquisa)",
+            "clustering_coefficient": 0.8666666666666667,
+            "quantidade_edicoes": 1,
+            "community_id": 8,
+            "data_criacao": "2023-10-01T11:59:21Z",
+            "data_ultima_edicao": "2023-10-01T11:59:21Z"
+        },
+        {
+            "titulo": "Gabriel Feltran e Roberto Efrem Filho - Fala na Audiência Pública da ADPF 635",
+            "clustering_coefficient": 0.8666666666666667,
+            "quantidade_edicoes": 4,
+            "community_id": 6,
+            "data_criacao": "2025-04-16T15:49:25Z",
+            "data_ultima_edicao": "2025-04-16T19:16:56Z"
+        },
+        {
+            "titulo": "Feira do Boiadeiro (Rocinha)",
+            "clustering_coefficient": 0.8571428571428571,
+            "quantidade_edicoes": 12,
+            "community_id": 16,
+            "data_criacao": "2020-04-24T11:31:48Z",
+            "data_ultima_edicao": "2025-04-29T19:59:51Z"
+        },
+        {
+            "titulo": "Reuniões comunitárias das UPPs",
+            "clustering_coefficient": 0.8571428571428571,
+            "quantidade_edicoes": 15,
+            "community_id": 5,
+            "data_criacao": "2019-08-27T17:02:04Z",
+            "data_ultima_edicao": "2023-09-19T23:02:32Z"
+        },
+        {
+            "titulo": "A transformação da política na favela: desconstruindo a “ausência do Estado” (artigo)",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 12,
+            "community_id": 2,
+            "data_criacao": "2021-02-25T11:39:58Z",
+            "data_ultima_edicao": "2025-04-28T23:21:40Z"
+        },
+        {
+            "titulo": "Favela Cruzada São Sebastião",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 12,
+            "community_id": 10,
+            "data_criacao": "2020-03-25T23:48:57Z",
+            "data_ultima_edicao": "2025-02-27T16:15:12Z"
+        },
+        {
+            "titulo": "Ambulatório Dedé - Sua criação, sua gestão e o término das atividades",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 1,
+            "community_id": 5,
+            "data_criacao": "2025-02-24T22:26:19Z",
+            "data_ultima_edicao": "2025-02-24T22:26:19Z"
+        },
+        {
+            "titulo": "Chacina do Jacarezinho: o massacre, a dor e a luta",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 4,
+            "community_id": 6,
+            "data_criacao": "2025-05-02T16:30:44Z",
+            "data_ultima_edicao": "2025-05-05T23:09:50Z"
+        },
+        {
+            "titulo": "Mapping of the tributes to Marielle Franco",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 11,
+            "community_id": 11,
+            "data_criacao": "2021-12-14T14:53:27Z",
+            "data_ultima_edicao": "2025-06-05T19:48:01Z"
+        },
+        {
+            "titulo": "Por um mundo onde caibam muitos morros - Reflexões ontológicas desde o Morro Santana Porto Alegre - RS (Dissertação)",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 3,
+            "community_id": 15,
+            "data_criacao": "2024-06-10T23:30:25Z",
+            "data_ultima_edicao": "2024-07-22T15:40:19Z"
+        },
+        {
+            "titulo": "Estudo com frequentadores das cenas de uso de drogas na Maré e entorno (livro)",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 2,
+            "community_id": 2,
+            "data_criacao": "2025-07-18T22:04:18Z",
+            "data_ultima_edicao": "2025-07-18T22:06:36Z"
+        },
+        {
+            "titulo": "Estudos narrativos: poesia, música e fotografia (livro)",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 2,
+            "community_id": 2,
+            "data_criacao": "2025-07-18T22:45:40Z",
+            "data_ultima_edicao": "2025-07-18T22:46:58Z"
+        },
+        {
+            "titulo": "Estudo com moradores das 16 favelas da Maré (livro)",
+            "clustering_coefficient": 0.8333333333333334,
+            "quantidade_edicoes": 2,
+            "community_id": 2,
+            "data_criacao": "2025-07-18T20:34:15Z",
+            "data_ultima_edicao": "2025-07-18T20:35:45Z"
+        },
+        {
+            "titulo": "Aluguel Social",
+            "clustering_coefficient": 0.8055555555555556,
+            "quantidade_edicoes": 29,
+            "community_id": 10,
+            "data_criacao": "2018-03-01T18:09:38Z",
+            "data_ultima_edicao": "2025-04-21T21:19:56Z"
+        },
+        {
+            "titulo": "Pocinho - Morro da Providência",
+            "clustering_coefficient": 0.8055555555555556,
+            "quantidade_edicoes": 11,
+            "community_id": 2,
+            "data_criacao": "2019-10-15T23:21:01Z",
+            "data_ultima_edicao": "2024-12-05T11:18:58Z"
+        },
+        {
+            "titulo": "Federação de Favelas do Rio busca reparação inédita por perseguição na ditadura (artigo)",
+            "clustering_coefficient": 0.8,
+            "quantidade_edicoes": 3,
+            "community_id": 13,
+            "data_criacao": "2024-04-04T00:37:47Z",
+            "data_ultima_edicao": "2025-04-26T17:44:58Z"
+        }
+    ],
+    "top_20_closeness_centrality": [
+        {
+            "titulo": "Complexo da Maré",
+            "closeness_centrality": 0.2719822799331226,
+            "quantidade_edicoes": 20,
+            "community_id": 2,
+            "data_criacao": "2020-02-20T20:20:05Z",
+            "data_ultima_edicao": "2025-06-26T18:32:41Z"
+        },
+        {
+            "titulo": "Complexo do Alemão",
+            "closeness_centrality": 0.25511212988837806,
+            "quantidade_edicoes": 31,
+            "community_id": 16,
+            "data_criacao": "2020-01-24T05:22:31Z",
+            "data_ultima_edicao": "2025-05-20T15:32:13Z"
+        },
+        {
+            "titulo": "Rocinha",
+            "closeness_centrality": 0.24802634233066187,
+            "quantidade_edicoes": 47,
+            "community_id": 16,
+            "data_criacao": "2020-02-20T20:32:26Z",
+            "data_ultima_edicao": "2025-05-20T14:44:28Z"
+        },
+        {
+            "titulo": "Marielle Franco",
+            "closeness_centrality": 0.24705919848349003,
+            "quantidade_edicoes": 61,
+            "community_id": 11,
+            "data_criacao": "2018-10-26T23:20:00Z",
+            "data_ultima_edicao": "2025-05-29T04:11:41Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Rio de Janeiro",
+            "closeness_centrality": 0.24304270955024854,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2025-02-07T22:03:12Z",
+            "data_ultima_edicao": "2025-02-07T22:03:12Z"
+        },
+        {
+            "titulo": "Cidade de Deus (favela)",
+            "closeness_centrality": 0.23785078895831885,
+            "quantidade_edicoes": 34,
+            "community_id": 14,
+            "data_criacao": "2020-01-09T18:44:27Z",
+            "data_ultima_edicao": "2025-04-25T21:39:09Z"
+        },
+        {
+            "titulo": "Moradia",
+            "closeness_centrality": 0.23137767384276772,
+            "quantidade_edicoes": 19,
+            "community_id": 9,
+            "data_criacao": "2018-12-05T16:32:12Z",
+            "data_ultima_edicao": "2025-02-04T17:10:46Z"
+        },
+        {
+            "titulo": "Redes da Maré",
+            "closeness_centrality": 0.2289096453217782,
+            "quantidade_edicoes": 24,
+            "community_id": 2,
+            "data_criacao": "2020-01-09T13:11:50Z",
+            "data_ultima_edicao": "2025-04-28T23:21:37Z"
+        },
+        {
+            "titulo": "UPP – a redução da favela a três letras",
+            "closeness_centrality": 0.22511417197070227,
+            "quantidade_edicoes": 20,
+            "community_id": 11,
+            "data_criacao": "2018-03-01T21:09:17Z",
+            "data_ultima_edicao": "2025-04-14T23:18:28Z"
+        },
+        {
+            "titulo": "Morro da Providência",
+            "closeness_centrality": 0.2230013095504627,
+            "quantidade_edicoes": 25,
+            "community_id": 2,
+            "data_criacao": "2020-03-19T13:02:36Z",
+            "data_ultima_edicao": "2025-06-03T18:20:53Z"
+        },
+        {
+            "titulo": "Coronavírus nas favelas",
+            "closeness_centrality": 0.22173774076040928,
+            "quantidade_edicoes": 38,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T19:16:45Z",
+            "data_ultima_edicao": "2025-01-28T19:27:40Z"
+        },
+        {
+            "titulo": "Manguinhos tem fome de direitos (cartilha)",
+            "closeness_centrality": 0.21705339533977744,
+            "quantidade_edicoes": 16,
+            "community_id": 3,
+            "data_criacao": "2020-02-13T18:56:42Z",
+            "data_ultima_edicao": "2025-04-15T14:23:03Z"
+        },
+        {
+            "titulo": "Vidigal (bairro)",
+            "closeness_centrality": 0.21680513103410173,
+            "quantidade_edicoes": 6,
+            "community_id": 16,
+            "data_criacao": "2020-03-19T12:35:06Z",
+            "data_ultima_edicao": "2023-07-25T19:07:40Z"
+        },
+        {
+            "titulo": "Nova Holanda",
+            "closeness_centrality": 0.21669988818124364,
+            "quantidade_edicoes": 12,
+            "community_id": 10,
+            "data_criacao": "2025-03-18T16:39:12Z",
+            "data_ultima_edicao": "2025-04-25T21:39:55Z"
+        },
+        {
+            "titulo": "Censo Populacional da Maré (2012-2014)",
+            "closeness_centrality": 0.21576863916854547,
+            "quantidade_edicoes": 13,
+            "community_id": 2,
+            "data_criacao": "2020-04-24T11:51:19Z",
+            "data_ultima_edicao": "2025-04-11T18:50:06Z"
+        },
+        {
+            "titulo": "Frente de Mobilização Maré",
+            "closeness_centrality": 0.2156287680792214,
+            "quantidade_edicoes": 30,
+            "community_id": 2,
+            "data_criacao": "2020-04-21T01:30:59Z",
+            "data_ultima_edicao": "2025-04-11T18:49:38Z"
+        },
+        {
+            "titulo": "Santa Marta Favela",
+            "closeness_centrality": 0.21529729990822583,
+            "quantidade_edicoes": 11,
+            "community_id": 5,
+            "data_criacao": "2021-12-14T14:37:44Z",
+            "data_ultima_edicao": "2025-06-05T19:47:46Z"
+        },
+        {
+            "titulo": "Racismo, motor da violência (relatório)",
+            "closeness_centrality": 0.2151058626518205,
+            "quantidade_edicoes": 15,
+            "community_id": 6,
+            "data_criacao": "2020-07-14T18:45:44Z",
+            "data_ultima_edicao": "2025-05-01T16:43:38Z"
+        },
+        {
+            "titulo": "UPP: a falência de um programa para mudar a polícia",
+            "closeness_centrality": 0.21444714536752935,
+            "quantidade_edicoes": 12,
+            "community_id": 5,
+            "data_criacao": "2018-03-01T21:08:30Z",
+            "data_ultima_edicao": "2025-04-29T18:08:52Z"
+        },
+        {
+            "titulo": "146x Favelas",
+            "closeness_centrality": 0.2144298651785392,
+            "quantidade_edicoes": 23,
+            "community_id": 8,
+            "data_criacao": "2024-07-08T18:47:20Z",
+            "data_ultima_edicao": "2025-05-29T03:48:49Z"
+        }
+    ],
+    "top_20_metrica_composta": [
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "metrica_composta": 4.003338894800999,
+            "quantidade_edicoes": 161,
+            "community_id": 10,
+            "data_criacao": "2020-02-12T13:47:26Z",
+            "data_ultima_edicao": "2025-08-11T14:19:10Z"
+        },
+        {
+            "titulo": "Complexo da Maré",
+            "metrica_composta": 2.94542230369375,
+            "quantidade_edicoes": 20,
+            "community_id": 2,
+            "data_criacao": "2020-02-20T20:20:05Z",
+            "data_ultima_edicao": "2025-06-26T18:32:41Z"
+        },
+        {
+            "titulo": "Dicionário de Favelas Marielle Franco",
+            "metrica_composta": 2.7132220505598608,
+            "quantidade_edicoes": 362,
+            "community_id": 2,
+            "data_criacao": "2017-08-04T19:31:11Z",
+            "data_ultima_edicao": "2025-05-30T00:03:37Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Rio de Janeiro",
+            "metrica_composta": 2.4779206825816953,
+            "quantidade_edicoes": 1,
+            "community_id": 2,
+            "data_criacao": "2025-02-07T22:03:12Z",
+            "data_ultima_edicao": "2025-02-07T22:03:12Z"
+        },
+        {
+            "titulo": "Marielle Franco",
+            "metrica_composta": 2.4596149084116594,
+            "quantidade_edicoes": 61,
+            "community_id": 11,
+            "data_criacao": "2018-10-26T23:20:00Z",
+            "data_ultima_edicao": "2025-05-29T04:11:41Z"
+        },
+        {
+            "titulo": "Complexo do Alemão",
+            "metrica_composta": 2.2533255286509375,
+            "quantidade_edicoes": 31,
+            "community_id": 16,
+            "data_criacao": "2020-01-24T05:22:31Z",
+            "data_ultima_edicao": "2025-05-20T15:32:13Z"
+        },
+        {
+            "titulo": "Rocinha",
+            "metrica_composta": 2.1272968311022593,
+            "quantidade_edicoes": 47,
+            "community_id": 16,
+            "data_criacao": "2020-02-20T20:32:26Z",
+            "data_ultima_edicao": "2025-05-20T14:44:28Z"
+        },
+        {
+            "titulo": "Cidade de Deus (favela)",
+            "metrica_composta": 1.9215663104541023,
+            "quantidade_edicoes": 34,
+            "community_id": 14,
+            "data_criacao": "2020-01-09T18:44:27Z",
+            "data_ultima_edicao": "2025-04-25T21:39:09Z"
+        },
+        {
+            "titulo": "Papo na Laje (programa)",
+            "metrica_composta": 1.9018073181936321,
+            "quantidade_edicoes": 26,
+            "community_id": 4,
+            "data_criacao": "2022-03-11T20:10:10Z",
+            "data_ultima_edicao": "2025-04-28T23:48:57Z"
+        },
+        {
+            "titulo": "Apoie as favelas na luta contra o Coronavírus",
+            "metrica_composta": 1.8921366567553195,
+            "quantidade_edicoes": 245,
+            "community_id": 8,
+            "data_criacao": "2020-03-23T15:31:25Z",
+            "data_ultima_edicao": "2025-04-15T12:44:22Z"
+        },
+        {
+            "titulo": "Redes da Maré",
+            "metrica_composta": 1.8419516206916615,
+            "quantidade_edicoes": 24,
+            "community_id": 2,
+            "data_criacao": "2020-01-09T13:11:50Z",
+            "data_ultima_edicao": "2025-04-28T23:21:37Z"
+        },
+        {
+            "titulo": "Análises e propostas sobre a realidade do coronavírus nas favelas",
+            "metrica_composta": 1.8038730406858607,
+            "quantidade_edicoes": 260,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T16:34:43Z",
+            "data_ultima_edicao": "2025-02-15T02:00:43Z"
+        },
+        {
+            "titulo": "Morro da Providência",
+            "metrica_composta": 1.797542961587479,
+            "quantidade_edicoes": 25,
+            "community_id": 2,
+            "data_criacao": "2020-03-19T13:02:36Z",
+            "data_ultima_edicao": "2025-06-03T18:20:53Z"
+        },
+        {
+            "titulo": "Memória Viva",
+            "metrica_composta": 1.7733876626063236,
+            "quantidade_edicoes": 162,
+            "community_id": 13,
+            "data_criacao": "2024-05-27T17:20:36Z",
+            "data_ultima_edicao": "2025-06-25T19:47:32Z"
+        },
+        {
+            "titulo": "Coronavírus nas favelas",
+            "metrica_composta": 1.770600121259099,
+            "quantidade_edicoes": 38,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T19:16:45Z",
+            "data_ultima_edicao": "2025-01-28T19:27:40Z"
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19",
+            "metrica_composta": 1.7540941405341615,
+            "quantidade_edicoes": 106,
+            "community_id": 8,
+            "data_criacao": "2023-05-24T18:41:42Z",
+            "data_ultima_edicao": "2025-04-15T14:15:47Z"
+        },
+        {
+            "titulo": "Moradia",
+            "metrica_composta": 1.6889547345379352,
+            "quantidade_edicoes": 19,
+            "community_id": 9,
+            "data_criacao": "2018-12-05T16:32:12Z",
+            "data_ultima_edicao": "2025-02-04T17:10:46Z"
+        },
+        {
+            "titulo": "Chacinas em favelas no Rio de Janeiro",
+            "metrica_composta": 1.6451947476556317,
+            "quantidade_edicoes": 113,
+            "community_id": 6,
+            "data_criacao": "2022-08-31T13:07:03Z",
+            "data_ultima_edicao": "2025-05-15T13:24:55Z"
+        },
+        {
+            "titulo": "Remoções de favelas no Rio de Janeiro",
+            "metrica_composta": 1.5508315842871758,
+            "quantidade_edicoes": 17,
+            "community_id": 9,
+            "data_criacao": "2019-08-03T21:35:35Z",
+            "data_ultima_edicao": "2024-06-13T21:20:26Z"
+        },
+        {
+            "titulo": "Violência de Estado operações policiais chacinas e um plano",
+            "metrica_composta": 1.510991729743458,
+            "quantidade_edicoes": 9,
+            "community_id": 6,
+            "data_criacao": "2022-05-20T19:30:30Z",
+            "data_ultima_edicao": "2025-05-01T16:41:37Z"
+        }
+    ],
+    "top_20_constraint": [
+        {
+            "titulo": "Reuniões comunitárias das UPPs",
+            "constraint": 0.3473228789935543,
+            "quantidade_edicoes": 15,
+            "community_id": 5,
+            "data_criacao": "2019-08-27T17:02:04Z",
+            "data_ultima_edicao": "2023-09-19T23:02:32Z"
+        },
+        {
+            "titulo": "O Fantasma das Remoções Volta a Assombrar Moradores da Comunidade Estradinha (artigo)",
+            "constraint": 0.32246220419336036,
+            "quantidade_edicoes": 12,
+            "community_id": 9,
+            "data_criacao": "2021-09-27T19:41:26Z",
+            "data_ultima_edicao": "2025-05-05T23:08:12Z"
+        },
+        {
+            "titulo": "Comissão de Defesa das Favelas da Maré (CODEFAM)",
+            "constraint": 0.2380267646453251,
+            "quantidade_edicoes": 22,
+            "community_id": 2,
+            "data_criacao": "2019-04-15T13:40:00Z",
+            "data_ultima_edicao": "2025-05-05T23:09:11Z"
+        },
+        {
+            "titulo": "Prevenção à violência armada em Manguinhos (cartilha)",
+            "constraint": 0.23777163024742892,
+            "quantidade_edicoes": 22,
+            "community_id": 3,
+            "data_criacao": "2020-01-23T14:19:02Z",
+            "data_ultima_edicao": "2025-03-24T14:26:25Z"
+        },
+        {
+            "titulo": "Ocupa Borel",
+            "constraint": 0.21658243429989674,
+            "quantidade_edicoes": 22,
+            "community_id": 13,
+            "data_criacao": "2019-12-09T17:11:37Z",
+            "data_ultima_edicao": "2025-04-26T19:30:18Z"
+        },
+        {
+            "titulo": "Complexo do Alemão e os movimentos coletivos locais: Para além das associações de moradores",
+            "constraint": 0.1889952632057485,
+            "quantidade_edicoes": 21,
+            "community_id": 16,
+            "data_criacao": "2018-03-01T20:19:23Z",
+            "data_ultima_edicao": "2023-07-17T14:52:14Z"
+        },
+        {
+            "titulo": "Associativismo de base comunitária na Cidade de Deus – O Movimento",
+            "constraint": 0.18728804244491945,
+            "quantidade_edicoes": 67,
+            "community_id": 14,
+            "data_criacao": "2018-03-06T17:42:10Z",
+            "data_ultima_edicao": "2024-03-01T21:36:34Z"
+        },
+        {
+            "titulo": "Materiais e audiovisuais sobre coronavírus produzidos pela e para favelas",
+            "constraint": 0.14031903060378248,
+            "quantidade_edicoes": 133,
+            "community_id": 8,
+            "data_criacao": "2020-03-23T13:11:54Z",
+            "data_ultima_edicao": "2024-10-25T14:29:12Z"
+        },
+        {
+            "titulo": "Manguinhos Solidário",
+            "constraint": 0.13728591290420902,
+            "quantidade_edicoes": 7,
+            "community_id": 3,
+            "data_criacao": "2020-06-12T21:25:01Z",
+            "data_ultima_edicao": "2025-03-22T21:15:03Z"
+        },
+        {
+            "titulo": "Mapeamento das homenagens a Marielle Franco",
+            "constraint": 0.13671592589013407,
+            "quantidade_edicoes": 45,
+            "community_id": 11,
+            "data_criacao": "2019-04-29T04:49:09Z",
+            "data_ultima_edicao": "2025-05-05T17:31:57Z"
+        },
+        {
+            "titulo": "Transformações Urbanas e Remoções de Favelas",
+            "constraint": 0.12968925138369797,
+            "quantidade_edicoes": 18,
+            "community_id": 9,
+            "data_criacao": "2018-03-01T20:53:57Z",
+            "data_ultima_edicao": "2025-05-05T23:08:04Z"
+        },
+        {
+            "titulo": "Remoções - O resultado da gentrificação na favela (documentário)",
+            "constraint": 0.12224841558002204,
+            "quantidade_edicoes": 28,
+            "community_id": 9,
+            "data_criacao": "2019-08-29T01:53:17Z",
+            "data_ultima_edicao": "2025-05-05T23:07:57Z"
+        },
+        {
+            "titulo": "Federação das Associações de Favelas do Estado da Guanabara (FAFEG)",
+            "constraint": 0.11922619220923872,
+            "quantidade_edicoes": 23,
+            "community_id": 10,
+            "data_criacao": "2018-10-23T15:16:34Z",
+            "data_ultima_edicao": "2025-05-05T23:08:44Z"
+        },
+        {
+            "titulo": "Notícias sobre Coronavírus nas Favelas",
+            "constraint": 0.11854353717263749,
+            "quantidade_edicoes": 150,
+            "community_id": 8,
+            "data_criacao": "2020-03-22T00:46:24Z",
+            "data_ultima_edicao": "2025-06-27T21:32:15Z"
+        },
+        {
+            "titulo": "Policiamento",
+            "constraint": 0.11166559195915497,
+            "quantidade_edicoes": 9,
+            "community_id": 17,
+            "data_criacao": "2019-06-01T16:15:22Z",
+            "data_ultima_edicao": "2025-04-14T15:46:26Z"
+        },
+        {
+            "titulo": "Manguinhos tem fome de direitos (cartilha)",
+            "constraint": 0.10615323952039282,
+            "quantidade_edicoes": 16,
+            "community_id": 3,
+            "data_criacao": "2020-02-13T18:56:42Z",
+            "data_ultima_edicao": "2025-04-15T14:23:03Z"
+        },
+        {
+            "titulo": "Saúde no Complexo do Alemão",
+            "constraint": 0.10195827072570485,
+            "quantidade_edicoes": 70,
+            "community_id": 16,
+            "data_criacao": "2018-03-01T20:55:01Z",
+            "data_ultima_edicao": "2025-04-29T17:58:18Z"
+        },
+        {
+            "titulo": "UPP: a falência de um programa para mudar a polícia",
+            "constraint": 0.09278189674496477,
+            "quantidade_edicoes": 12,
+            "community_id": 5,
+            "data_criacao": "2018-03-01T21:08:30Z",
+            "data_ultima_edicao": "2025-04-29T18:08:52Z"
+        },
+        {
+            "titulo": "Ocupa Alemão",
+            "constraint": 0.09160465928031161,
+            "quantidade_edicoes": 11,
+            "community_id": 11,
+            "data_criacao": "2020-01-09T13:32:16Z",
+            "data_ultima_edicao": "2025-04-26T19:29:18Z"
+        },
+        {
+            "titulo": "UPP - A redução da favela a três letras - uma análise da política de segurança pública do Estado do Rio de Janeiro (resenha)",
+            "constraint": 0.08724062616693894,
+            "quantidade_edicoes": 10,
+            "community_id": 5,
+            "data_criacao": "2021-11-17T13:48:36Z",
+            "data_ultima_edicao": "2025-04-29T18:09:45Z"
+        }
+    ],
+    "top_20_quantidade_edicoes": [
+        {
+            "titulo": "Dicionário de Favelas Marielle Franco",
+            "quantidade_edicoes": 362,
+            "community_id": 2,
+            "data_criacao": "2017-08-04T19:31:11Z",
+            "data_ultima_edicao": "2025-05-30T00:03:37Z"
+        },
+        {
+            "titulo": "Análises e propostas sobre a realidade do coronavírus nas favelas",
+            "quantidade_edicoes": 260,
+            "community_id": 8,
+            "data_criacao": "2020-03-24T16:34:43Z",
+            "data_ultima_edicao": "2025-02-15T02:00:43Z"
+        },
+        {
+            "titulo": "Apoie as favelas na luta contra o Coronavírus",
+            "quantidade_edicoes": 245,
+            "community_id": 8,
+            "data_criacao": "2020-03-23T15:31:25Z",
+            "data_ultima_edicao": "2025-04-15T12:44:22Z"
+        },
+        {
+            "titulo": "Memória Viva",
+            "quantidade_edicoes": 162,
+            "community_id": 13,
+            "data_criacao": "2024-05-27T17:20:36Z",
+            "data_ultima_edicao": "2025-06-25T19:47:32Z"
+        },
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "quantidade_edicoes": 161,
+            "community_id": 10,
+            "data_criacao": "2020-02-12T13:47:26Z",
+            "data_ultima_edicao": "2025-08-11T14:19:10Z"
+        },
+        {
+            "titulo": "Principais chacinas no Rio de Janeiro",
+            "quantidade_edicoes": 150,
+            "community_id": 6,
+            "data_criacao": "2021-05-06T23:22:56Z",
+            "data_ultima_edicao": "2025-05-15T16:32:12Z"
+        },
+        {
+            "titulo": "Notícias sobre Coronavírus nas Favelas",
+            "quantidade_edicoes": 150,
+            "community_id": 8,
+            "data_criacao": "2020-03-22T00:46:24Z",
+            "data_ultima_edicao": "2025-06-27T21:32:15Z"
+        },
+        {
+            "titulo": "Materiais e audiovisuais sobre coronavírus produzidos pela e para favelas",
+            "quantidade_edicoes": 133,
+            "community_id": 8,
+            "data_criacao": "2020-03-23T13:11:54Z",
+            "data_ultima_edicao": "2024-10-25T14:29:12Z"
+        },
+        {
+            "titulo": "Chacinas em favelas no Rio de Janeiro",
+            "quantidade_edicoes": 113,
+            "community_id": 6,
+            "data_criacao": "2022-08-31T13:07:03Z",
+            "data_ultima_edicao": "2025-05-15T13:24:55Z"
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19",
+            "quantidade_edicoes": 106,
+            "community_id": 8,
+            "data_criacao": "2023-05-24T18:41:42Z",
+            "data_ultima_edicao": "2025-04-15T14:15:47Z"
+        },
+        {
+            "titulo": "Podcast Ecos Digitais",
+            "quantidade_edicoes": 99,
+            "community_id": 13,
+            "data_criacao": "2024-12-06T18:21:58Z",
+            "data_ultima_edicao": "2025-02-06T23:09:19Z"
+        },
+        {
+            "titulo": "Lideranças comunitárias e pesquisadores de coletivos de favelas e periferias",
+            "quantidade_edicoes": 96,
+            "community_id": 2,
+            "data_criacao": "2024-07-20T12:53:29Z",
+            "data_ultima_edicao": "2024-12-17T20:09:10Z"
+        },
+        {
+            "titulo": "Gírias",
+            "quantidade_edicoes": 90,
+            "community_id": 13,
+            "data_criacao": "2021-06-04T14:20:50Z",
+            "data_ultima_edicao": "2025-07-28T20:22:43Z"
+        },
+        {
+            "titulo": "Violência urbana, Segurança Pública e Favelas - O Caso do Rio de Janeiro Atual (resenha)",
+            "quantidade_edicoes": 82,
+            "community_id": 17,
+            "data_criacao": "2021-08-26T18:14:49Z",
+            "data_ultima_edicao": "2025-04-29T18:28:16Z"
+        },
+        {
+            "titulo": "Itamar Silva (Memória Viva)",
+            "quantidade_edicoes": 80,
+            "community_id": 13,
+            "data_criacao": "2024-06-05T19:12:41Z",
+            "data_ultima_edicao": "2025-06-27T18:26:58Z"
+        },
+        {
+            "titulo": "Zona Oeste Ativa - produção cultural na ZO",
+            "quantidade_edicoes": 76,
+            "community_id": 10,
+            "data_criacao": "2024-04-01T01:27:03Z",
+            "data_ultima_edicao": "2025-05-01T17:53:23Z"
+        },
+        {
+            "titulo": "Saúde no Complexo do Alemão",
+            "quantidade_edicoes": 70,
+            "community_id": 16,
+            "data_criacao": "2018-03-01T20:55:01Z",
+            "data_ultima_edicao": "2025-04-29T17:58:18Z"
+        },
+        {
+            "titulo": "Alan Brum (Memória Viva)",
+            "quantidade_edicoes": 70,
+            "community_id": 13,
+            "data_criacao": "2024-05-26T20:18:42Z",
+            "data_ultima_edicao": "2024-12-10T13:47:08Z"
+        },
+        {
+            "titulo": "Geração cidadã de dados - cartografia dos coletivos de comunicação comunitária para promoção da saúde",
+            "quantidade_edicoes": 70,
+            "community_id": 16,
+            "data_criacao": "2024-08-08T09:53:36Z",
+            "data_ultima_edicao": "2025-05-29T16:11:44Z"
+        },
+        {
+            "titulo": "Dinâmicas de poder e os grupos armados no Brasil",
+            "quantidade_edicoes": 68,
+            "community_id": 17,
+            "data_criacao": "2024-07-31T19:27:41Z",
+            "data_ultima_edicao": "2025-06-06T22:37:30Z"
+        }
+    ]
+}

@@ -1,0 +1,84 @@
+1) Start Notebook apiToJsonMediawiki.ipynb
+
+	1.1) INPUT API
+	1.2) Listar todos verbetes
+	1.3) Obter dados por verbete (salva a cada 50 verbetes no json abaixo)
+	1.4) OUTPUT "dados_api_{timestamp}.json"
+
+2) Start Notebook verb_link_networkx.ipynb
+
+	2.1) Calcular e Enriquecer Métricas
+		2.1.1) INPUT "dados_api_{timestamp}.json"
+		2.1.2) Constrói Grafo Verbete -> Hiperlink (Direcionado)
+		2.1.3) Detecta Comunidades
+		2.1.4) Calcula medidas de Centralidade
+		2.1.5) OUTPUT "dados_com_metricas_v2.json"
+
+	2.2) Calcular Layout
+		2.2.1) INPUT "dados_com_metricas_v2.json"
+		2.2.2) Constrói Grafo Verbete -> Hiperlink (Não Direcionado)
+		2.2.3) Calcula posições X e Y, Layout Kamada-Kawai
+		2.2.4) Posiciona nós isolados em uma Grade
+		2.2.5) OUTPUT "dados_com_posicoes_v2.json"
+
+	2.3) Refinar Layout
+		2.3.1) INPUT "dados_com_posicoes_v2.json"
+		2.3.2) Constrói Grafo Verbete -> Hiperlink (Não Direcionado)
+		2.3.3) Atualiza posições X e Y, Spring Layout
+		2.3.4) OUTPUT "dados_com_posicoes_v3.json"
+
+	2.4) Calcular Métrica composta
+		2.4.1) INPUT "dados_com_posicoes_v3.json"
+		2.4.2) Normaliza as métricas de centralidade para um valor entre 0 e 1
+		2.4.3) Calcula a métrica composta (betweenness + closeness + total_degree + quantidade edições + pagerank)
+		2.4.4) OUTPUT "dados_com_metrica_composta.json"
+
+	2.5) Calcula a métrica de Constraint
+		2.5.1) INPUT "dados_com_metrica_composta.json"
+		2.5.2) Constrói Grafo Verbete -> Hiperlink (Direcionado)
+		2.5.3) Calcula medida de Constraint
+		2.5.4) OUTPUT "dados_com_constraint.json"
+
+3) Start Notebook gerarViz.ipynb
+	
+	3.1) Gerar Visualização Comunidades
+		3.1.1) INPUT "dados_com_constraint.json"
+		3.1.2) Prepara dados para o Cytoscape JS (Tamanho do nó baseado no PageRank)
+		3.1.3) Prepara dados para o Cytoscape JS (Categorias únicas para o filtro)
+		3.1.4) Prepara dados para o Cytoscape JS (Comunidades únicas para o filtro)
+		3.1.5) Utiliza Layout Preset do Cytoscape para posicionar os nós exatamente de acordo com as coordenadas pré-calculadas.
+		3.1.6) Define propriedades dos nós e arestas
+		3.1.7) Define Funções de Filtro de Comunidade e Categorias
+		3.1.8) Define Funcionamento da Sidebar e dos Nós ao clicar em um Nó específico
+		3.1.9) Define o estilo (CSS) da página
+		3.1.10) OUTPUT "grafo_wikifavelas_final_{timestamp}.html"
+
+	3.2) Gerar Visualização Betweenness (Contínua)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_betweenness_{timestamp}.html"
+
+	3.3) Gerar Visualização Closeness (Percentil)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_closeness_percentil_{timestamp}.html"
+
+	3.4) Gerar Visualização Degree (Percentil)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_degree_percentil_{timestamp}.html"
+
+	3.5) Gerar Visualização Edições (Percentil)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_edicoes_percentil_{timestamp}.html"
+
+	3.6) Gerar Visualização Métrica Composta (Percentil)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_metrica_composta_percentil_{timestamp}.html"
+
+	3.7) Gerar Visualização Constraint (Percentil)
+		3.2.1) INPUT "dados_com_constraint.json"
+		3.2.2) OUTPUT "grafo_constraint_percentil_{timestamp}.html"
+
+
+
+
+
+	

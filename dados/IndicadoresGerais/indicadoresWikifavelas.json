@@ -1,0 +1,330 @@
+{
+    "top_editores": [
+        {
+            "editor": "Gabriel",
+            "quantidade_edicoes": 4840
+        },
+        {
+            "editor": "Patrícia Ferreira",
+            "quantidade_edicoes": 2861
+        },
+        {
+            "editor": "Kita Pedroza",
+            "quantidade_edicoes": 2662
+        },
+        {
+            "editor": "Caiqueazael",
+            "quantidade_edicoes": 2432
+        },
+        {
+            "editor": "Nsmiranda",
+            "quantidade_edicoes": 2284
+        },
+        {
+            "editor": "Letícia Vitoria",
+            "quantidade_edicoes": 2162
+        },
+        {
+            "editor": "Clara",
+            "quantidade_edicoes": 1793
+        },
+        {
+            "editor": "Thiagoferreira",
+            "quantidade_edicoes": 1758
+        },
+        {
+            "editor": "Kharinegil",
+            "quantidade_edicoes": 1488
+        },
+        {
+            "editor": "Vitor Martins",
+            "quantidade_edicoes": 1463
+        },
+        {
+            "editor": "Flavia Candido",
+            "quantidade_edicoes": 941
+        },
+        {
+            "editor": "Fornazin",
+            "quantidade_edicoes": 490
+        },
+        {
+            "editor": "Hugo Oliveira",
+            "quantidade_edicoes": 455
+        },
+        {
+            "editor": "Arthurwilliam",
+            "quantidade_edicoes": 283
+        },
+        {
+            "editor": "Palloma",
+            "quantidade_edicoes": 270
+        },
+        {
+            "editor": "Thiago Ferreira de Oliveira",
+            "quantidade_edicoes": 189
+        },
+        {
+            "editor": "Fernandapernasetti",
+            "quantidade_edicoes": 183
+        },
+        {
+            "editor": "Isabel Xavier",
+            "quantidade_edicoes": 141
+        },
+        {
+            "editor": "Laura Asbeg",
+            "quantidade_edicoes": 134
+        },
+        {
+            "editor": "Carolina Rocha Silva",
+            "quantidade_edicoes": 119
+        }
+    ],
+    "top_referencias": [
+        {
+            "referencia": "Complexo da Maré",
+            "quantidade": 197
+        },
+        {
+            "referencia": "Lista de Favelas do Município do Rio de Janeiro",
+            "quantidade": 123
+        },
+        {
+            "referencia": "Complexo do Alemão",
+            "quantidade": 117
+        },
+        {
+            "referencia": "Rocinha",
+            "quantidade": 100
+        },
+        {
+            "referencia": "Cidade de Deus (favela)",
+            "quantidade": 96
+        },
+        {
+            "referencia": "Moradia",
+            "quantidade": 95
+        },
+        {
+            "referencia": "Marielle Franco",
+            "quantidade": 94
+        },
+        {
+            "referencia": "Lista de Favelas do Rio de Janeiro",
+            "quantidade": 87
+        },
+        {
+            "referencia": "Urbanização de favelas no Rio de Janeiro (livro)",
+            "quantidade": 87
+        },
+        {
+            "referencia": "Dicionário de Favelas Marielle Franco",
+            "quantidade": 77
+        },
+        {
+            "referencia": "Morro da Providência",
+            "quantidade": 75
+        },
+        {
+            "referencia": "Redes da Maré",
+            "quantidade": 75
+        },
+        {
+            "referencia": "Coronavírus nas favelas",
+            "quantidade": 73
+        },
+        {
+            "referencia": "Racismo, motor da violência (relatório)",
+            "quantidade": 61
+        },
+        {
+            "referencia": "Histórias, Memórias, Oralidades e Cartografia da Luta Social por Terra e Moradia na Região de Jacarepaguá",
+            "quantidade": 61
+        },
+        {
+            "referencia": "Memória Viva",
+            "quantidade": 56
+        },
+        {
+            "referencia": "Complexos de Favelas",
+            "quantidade": 54
+        },
+        {
+            "referencia": "Jacarezinho, Rio de Janeiro",
+            "quantidade": 54
+        },
+        {
+            "referencia": "Santa Marta Favela",
+            "quantidade": 52
+        },
+        {
+            "referencia": "Violência de Estado operações policiais chacinas e um plano",
+            "quantidade": 47
+        }
+    ],
+    "top_categorias": [
+        {
+            "categoria": "Categoria:Rio de Janeiro",
+            "quantidade": 1657
+        },
+        {
+            "categoria": "Categoria:Temática - Associativismo e Movimentos Sociais",
+            "quantidade": 556
+        },
+        {
+            "categoria": "Categoria:Temática - Cultura",
+            "quantidade": 539
+        },
+        {
+            "categoria": "Categoria:Temática - Favelas e Periferias",
+            "quantidade": 419
+        },
+        {
+            "categoria": "Categoria:Temática - Violência",
+            "quantidade": 304
+        },
+        {
+            "categoria": "Categoria:Localidades",
+            "quantidade": 203
+        },
+        {
+            "categoria": "Categoria:Temática - Pesquisas",
+            "quantidade": 172
+        },
+        {
+            "categoria": "Categoria:Temática - Educação",
+            "quantidade": 153
+        },
+        {
+            "categoria": "Categoria:Políticas públicas",
+            "quantidade": 151
+        },
+        {
+            "categoria": "Categoria:Direitos humanos",
+            "quantidade": 148
+        },
+        {
+            "categoria": "Categoria:São Paulo",
+            "quantidade": 140
+        },
+        {
+            "categoria": "Categoria:Temática - Relações Étnico-Raciais",
+            "quantidade": 138
+        },
+        {
+            "categoria": "Categoria:Pesquisas",
+            "quantidade": 138
+        },
+        {
+            "categoria": "Categoria:Histórias de favelas",
+            "quantidade": 127
+        },
+        {
+            "categoria": "Categoria:Iframe",
+            "quantidade": 125
+        },
+        {
+            "categoria": "Categoria:Coletivos",
+            "quantidade": 125
+        },
+        {
+            "categoria": "Categoria:Cultura",
+            "quantidade": 120
+        },
+        {
+            "categoria": "Categoria:Segurança pública",
+            "quantidade": 120
+        },
+        {
+            "categoria": "Categoria:Maré",
+            "quantidade": 117
+        },
+        {
+            "categoria": "Categoria:Violência",
+            "quantidade": 117
+        }
+    ],
+    "top_verbetes_mais_editados": [
+        {
+            "titulo": "Dicionário de Favelas Marielle Franco",
+            "quantidade_edicoes": 362
+        },
+        {
+            "titulo": "Análises e propostas sobre a realidade do coronavírus nas favelas",
+            "quantidade_edicoes": 260
+        },
+        {
+            "titulo": "Apoie as favelas na luta contra o Coronavírus",
+            "quantidade_edicoes": 245
+        },
+        {
+            "titulo": "Memória Viva",
+            "quantidade_edicoes": 162
+        },
+        {
+            "titulo": "Lista de Favelas do Município do Rio de Janeiro",
+            "quantidade_edicoes": 161
+        },
+        {
+            "titulo": "Principais chacinas no Rio de Janeiro",
+            "quantidade_edicoes": 150
+        },
+        {
+            "titulo": "Notícias sobre Coronavírus nas Favelas",
+            "quantidade_edicoes": 150
+        },
+        {
+            "titulo": "Materiais e audiovisuais sobre coronavírus produzidos pela e para favelas",
+            "quantidade_edicoes": 133
+        },
+        {
+            "titulo": "Chacinas em favelas no Rio de Janeiro",
+            "quantidade_edicoes": 113
+        },
+        {
+            "titulo": "Plano de Enfrentamento da COVID19",
+            "quantidade_edicoes": 106
+        },
+        {
+            "titulo": "Podcast Ecos Digitais",
+            "quantidade_edicoes": 99
+        },
+        {
+            "titulo": "Lideranças comunitárias e pesquisadores de coletivos de favelas e periferias",
+            "quantidade_edicoes": 96
+        },
+        {
+            "titulo": "Gírias",
+            "quantidade_edicoes": 90
+        },
+        {
+            "titulo": "Violência urbana, Segurança Pública e Favelas - O Caso do Rio de Janeiro Atual (resenha)",
+            "quantidade_edicoes": 82
+        },
+        {
+            "titulo": "Itamar Silva (Memória Viva)",
+            "quantidade_edicoes": 80
+        },
+        {
+            "titulo": "Zona Oeste Ativa - produção cultural na ZO",
+            "quantidade_edicoes": 76
+        },
+        {
+            "titulo": "Saúde no Complexo do Alemão",
+            "quantidade_edicoes": 70
+        },
+        {
+            "titulo": "Alan Brum (Memória Viva)",
+            "quantidade_edicoes": 70
+        },
+        {
+            "titulo": "Geração cidadã de dados - cartografia dos coletivos de comunicação comunitária para promoção da saúde",
+            "quantidade_edicoes": 70
+        },
+        {
+            "titulo": "Dinâmicas de poder e os grupos armados no Brasil",
+            "quantidade_edicoes": 68
+        }
+    ]
+}
