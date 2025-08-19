@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TCC - Glauber Guimarães</title>
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+            background-color: #f4f4f9;
+            color: #333;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+        }
+        .container {
+            background: #fff;
+            padding: 30px; /* Reduzido para mais compactação */
+            border-radius: 10px;
+            box-shadow: 0 4px B12px rgba(0, 0, 0, 0.1);
+            max-width: 550px; /* Ligeiramente menor */
+            width: 90%;
+        }
+        h1 {
+            color: #2c3e50;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.1em;
+            color: #555;
+            margin-bottom: 25px; /* Margem inferior reduzida */
+        }
+        .nav-buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 10px; /* Espaçamento entre botões reduzido */
+        }
+        .btn {
+            background-color: #3498db;
+            color: white;
+            padding: 12px 15px; /* Padding vertical e horizontal reduzidos */
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            text-decoration: none;
+            font-size: 0.95em; /* Tamanho da fonte ligeiramente menor */
+            transition: background-color 0.3s ease, transform 0.2s ease;
+            display: block;
+        }
+        .btn:hover {
+            background-color: #2980b9;
+            transform: translateY(-2px);
+        }
+    </style>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Bem-vindo ao meu Projeto de TCC</h1>
+        <p>
+            Eu sou <strong>Glauber Guimarães</strong>, aluno do curso de Sistemas de Informação. <br>
+            Navegue abaixo pelas visualizações de grafos da minha pesquisa.
+        </p>
+        <div class="nav-buttons">
+            <a href="public/grafo_betweenness_20250812_202241.html" class="btn">Grafo Betweenness</a>
+            <a href="public/grafo_closeness_percentil_20250812_205052.html" class="btn">Grafo Closeness</a>
+            <a href="public/grafo_constraint_percentil_20250814_011449.html" class="btn">Grafo Constraint</a>
+            <a href="public/grafo_degree_percentil_20250812_205102.html" class="btn">Grafo Degree</a>
+            <a href="public/grafo_edicoes_percentil_20250812_205108.html" class="btn">Grafo Edições</a>
+            <a href="public/grafo_metrica_composta_percentil_20250812_210642.html" class="btn">Grafo Métrica Composta</a>
+            <a href="public/outros/index.html" class="btn">Outras Visualizações</a>
+        </div>
+    </div>
+
+</body>
+</html>
