@@ -12,41 +12,55 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            min-height: 100vh; 
             margin: 0;
+            padding: 20px 0; 
             text-align: center;
         }
         .container {
             background: #fff;
-            padding: 30px; /* Reduzido para mais compactação */
+            padding: 40px;
             border-radius: 10px;
-            box-shadow: 0 4px B12px rgba(0, 0, 0, 0.1);
-            max-width: 550px; /* Ligeiramente menor */
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            max-width: 600px; 
             width: 90%;
         }
         h1 {
             color: #2c3e50;
-            margin-bottom: 10px;
+            margin-bottom: 25px; 
+            font-size: 1.8em; 
+            line-height: 1.3;
         }
-        p {
-            font-size: 1.1em;
+        /* Nova seção para informações acadêmicas */
+        .academic-info {
+            margin-bottom: 30px;
             color: #555;
-            margin-bottom: 25px; /* Margem inferior reduzida */
+            line-height: 1.7;
+            text-align: left;
+        }
+        .academic-info p {
+            margin: 4px 0; 
+            font-size: 0.9em;
+        }
+        .call-to-action {
+            font-size: 1.1em;
+            color: #333;
+            margin-bottom: 25px;
         }
         .nav-buttons {
             display: flex;
             flex-direction: column;
-            gap: 10px; /* Espaçamento entre botões reduzido */
+            gap: 12px;
         }
         .btn {
             background-color: #3498db;
             color: white;
-            padding: 12px 15px; /* Padding vertical e horizontal reduzidos */
+            padding: 13px 20px;
             border: none;
             border-radius: 5px;
             cursor: pointer;
             text-decoration: none;
-            font-size: 0.95em; /* Tamanho da fonte ligeiramente menor */
+            font-size: 1em;
             transition: background-color 0.3s ease, transform 0.2s ease;
             display: block;
         }
@@ -59,21 +73,26 @@
 <body>
 
     <div class="container">
-        <h1>Bem-vindo ao meu Projeto de TCC</h1>
-        <p>
-            Eu sou <strong>Glauber Guimarães</strong>, aluno do curso de Sistemas de Informação. <br>
-            Navegue abaixo pelas visualizações de grafos da minha pesquisa.
-        </p>
-        <div class="nav-buttons">
-            <a href="public/grafo_wikifavelas_final_20250829_123432.html" class="btn">Grafo Clusters</a>
-            <a href="public/grafo_betweenness_20250812_202241.html" class="btn">Grafo Betweenness</a>
-            <a href="public/grafo_closeness_percentil_20250812_205052.html" class="btn">Grafo Closeness</a>
-            <a href="public/grafo_constraint_percentil_20250814_011449.html" class="btn">Grafo Constraint</a>
-            <a href="public/grafo_degree_percentil_20250812_205102.html" class="btn">Grafo Degree</a>
-            <a href="public/grafo_edicoes_percentil_20250812_205108.html" class="btn">Grafo Edições</a>
-            <a href="public/grafo_metrica_composta_percentil_20250812_210643.html" class="btn">Grafo Métrica Composta</a>
+        <h1 style="text-align: left;">Uma Análise da Rede Sociotécnica do Wikifavelas</h1>
+        
+        <div class="academic-info">
+            <p><strong>Universidade:</strong> Universidade Federal Fluminense</p>
+            <p><strong>Curso:</strong> Sistemas de Informação</p>
+            <p><strong>Aluno:</strong> Glauber Guimarães</p>
+        </div>
 
-            
+        <p class="call-to-action" style="text-align: left;">
+            Navegue abaixo pelas diferentes visualizações de rede geradas por esta pesquisa:
+        </p>
+
+        <div class="nav-buttons">
+            <a href="public/grafo_wikifavelas_final_20250829_123432.html" class="btn">Grafo de Comunidades (Clusters)</a>
+            <a href="public/grafo_betweenness_20250812_202241.html" class="btn">Grafo por Centralidade de Intermediação (Betweenness)</a>
+            <a href="public/grafo_closeness_percentil_20250812_205052.html" class="btn">Grafo por Centralidade de Proximidade (Closeness)</a>
+            <a href="public/grafo_degree_percentil_20250812_205102.html" class="btn">Grafo por Centralidade de Grau (Degree)</a>            
+            <a href="public/grafo_edicoes_percentil_20250812_205108.html" class="btn">Grafo por Quantidade de Edições</a>
+            <a href="public/grafo_metrica_composta_percentil_20250812_210643.html" class="btn">Grafo por Métrica Composta</a>
+            <a href="public/grafo_constraint_percentil_20250814_011449.html" class="btn">Grafo por Métrica de Restrição (Constraint)</a>
         </div>
     </div>
 
