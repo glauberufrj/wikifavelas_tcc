@@ -54,7 +54,7 @@
 
         <section class="slide flex-col items-center justify-center p-8">
             <div class="slide-content">
-                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">O Problema: Conhecimento, Poder e Plataformas</h2>
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Contexto: Conhecimento, Poder e Plataformas</h2>
                 <div class="grid md:grid-cols-2 gap-8 text-left text-xl">
                     <div class="bg-gray-800 p-6 rounded-lg">
                         <h3 class="font-bold text-2xl mb-3">Produção de Conhecimento Centralizada</h3>
@@ -96,11 +96,11 @@
                     </div>
                     <div class="bg-gray-800 p-6 rounded-lg">
                         <h3 class="font-bold text-2xl mb-2 text-blue-300">Problema de Pesquisa</h3>
-                        <p>Como atores **humanos** (colaboradores, conselho) e **não-humanos** (plataforma, verbetes, código, grafo) se associam para constituir o conhecimento sobre as favelas?</p>
+                        <p>Como atores **humanos** (colaboradores, conselho) e **não-humanos** (plataforma, verbetes, interface, governança) se associam para constituir o conhecimento sobre as favelas?</p>
                     </div>
                      <div class="bg-gray-800 p-6 rounded-lg">
                         <h3 class="font-bold text-2xl mb-2 text-blue-300">Objetivo</h3>
-                        <p>Mapear e analisar a estrutura sociotécnica da rede de conhecimento do Wikifavelas.</p>
+                        <p>Mapear e analisar a estrutura sociotécnica da rede de conhecimento do Wikifavelas para identificar centralidades, isolamentos e possíveis buracos estruturais.</p>
                     </div>
                 </div>
             </div>
@@ -137,16 +137,23 @@
 
         <section class="slide flex-col items-center justify-center p-8">
             <div class="slide-content text-center">
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-6">Diagrama do Pipeline de Dados</h2>
+                <img src="../public/PipelineDetalhado.JPG" alt="Diagrama do Pipeline de Pesquisa" class="rounded-lg shadow-lg mx-auto" onerror="this.onerror=null;this.src='https://placehold.co/1000x400/1F2937/E0E0E0?text=Erro+ao+carregar+imagem';">
+            </div>
+        </section>
+
+        <section class="slide flex-col items-center justify-center p-8">
+            <div class="slide-content text-center">
                 <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-6">Metodologia: A Pesquisa como Ato de Inscrição</h2>
                 <p class="text-xl mb-6">O pipeline de pesquisa não é neutro. É um ato de **tradução** e **inscrição** que transforma a realidade complexa da wiki num grafo analisável.</p>
-                <img src="PipelineWikifavelas.jpg" alt="Diagrama do Pipeline de Pesquisa" class="rounded-lg shadow-lg mx-auto" onerror="this.onerror=null;this.src='https://placehold.co/1000x400/1F2937/E0E0E0?text=Erro+ao+carregar+imagem';">
+                <img src="../public/PipelineWikifavelas.jpg" alt="Diagrama do Pipeline de Pesquisa" class="rounded-lg shadow-lg mx-auto" onerror="this.onerror=null;this.src='https://placehold.co/1000x400/1F2937/E0E0E0?text=Erro+ao+carregar+imagem';">
                 <p class="text-sm mt-2 text-gray-400">Fase 1: Extração (API) → Fase 2: Processamento (NetworkX) → Fase 3: Visualização (Cytoscape.js)</p>
             </div>
         </section>
 
         <section class="slide flex-col items-center justify-center p-8">
             <div class="slide-content">
-                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">A Rede Analisada: Estrutura e Escala</h2>
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Números Gerais: Estrutura e Escala</h2>
                 <div class="flex flex-col md:flex-row items-center gap-8">
                     <div class="md:w-1/2 text-left bg-gray-800 p-6 rounded-lg space-y-4 text-xl">
                         <div>
@@ -157,11 +164,12 @@
                         <div>
                             <h3 class="font-bold text-2xl text-blue-300">Dados Gerais</h3>
                             <p>~2.400 colaboradores cadastrados</p>
-                            <p>513 categorias únicas</p>
+                            <p>678 Editores únicos</p>
+                            <p>1577 categorias únicas</p>
                         </div>
                     </div>
                     <div class="md:w-1/2">
-                        <img src="grafopng.png" alt="Visualização Panorâmica do Grafo" class="rounded-lg shadow-lg" onerror="this.onerror=null;this.src='https://placehold.co/500x400/1F2937/E0E0E0?text=Erro';">
+                        <img src="../public/ImagemGrafoGeral.png" alt="Visualização Panorâmica do Grafo" class="rounded-lg shadow-lg" onerror="this.onerror=null;this.src='https://placehold.co/500x400/1F2937/E0E0E0?text=Erro';">
                     </div>
                 </div>
             </div>
@@ -184,150 +192,70 @@
             </div>
         </section>
 
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por Grau (Degree)</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis de Grau, destacando os **"hubs"** da rede em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafodegree.png" alt="Grafo colorido por Degree Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-        
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - Grau (Degree)</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela os **"hubs"** da rede: os verbetes mais conectados, de importância consensual.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_degree.png" alt="Gráfico do Top 10 Degree Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por Intermediação (Betweenness)</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis de Intermediação, destacando as **"pontes"** em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafobetweenness.png" alt="Grafo colorido por Betweenness Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - Intermediação (Betweenness)</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela as **"pontes"** da rede: os verbetes que conectam diferentes clusters temáticos.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_betweenness.png" alt="Gráfico do Top 10 Betweenness Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-        
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por PageRank</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis de PageRank, destacando as **"autoridades"** em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafopng.png" alt="Grafo colorido por PageRank" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - PageRank</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela as **"autoridades"** da rede: os verbetes que recebem os links mais importantes.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_pagerank.png" alt="Gráfico do Top 10 PageRank" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por Proximidade (Closeness)</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis de Proximidade, destacando os **"disseminadores"** em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafocloseness.png" alt="Grafo colorido por Closeness Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - Proximidade (Closeness)</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela os **"disseminadores"** da rede: os verbetes que alcançam todos os outros mais rapidamente.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_closeness.png" alt="Gráfico do Top 10 Closeness Centrality" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por Menor Restrição (Constraint)</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis de Restrição, destacando os **"corretores"** (*brokers*) em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafoconstraint.png" alt="Grafo colorido por Menor Constraint" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - Menor Restrição (Constraint)</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela os **"corretores"** (*brokers*): os verbetes que criam pontes entre grupos que não se conectam.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_constraint.png" alt="Gráfico do Top 10 Menor Constraint" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Visualização por Métrica Composta</h2>
-                <p class="text-lg text-gray-300 mb-6">O grafo é colorido por percentis da Métrica Composta, destacando os **"super-nós"** em vermelho/amarelo.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="grafometricacomposta.png" alt="Grafo colorido por Métrica Composta" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x500/161b22/E0E0E0?text=Erro';">
-                </div>
-            </div>
-        </section>
-
-        <section class="slide flex-col items-center justify-start pt-16 p-8">
-            <div class="slide-content text-center">
-                <h2 class="text-4xl font-bold text-blue-400 mb-2">Análise Quantitativa: Top 10 - Métrica Composta</h2>
-                <p class="text-lg text-gray-300 mb-6">Revela os **"super-nós"**: os verbetes que são importantes em múltiplas dimensões simultaneamente.</p>
-                <div class="bg-gray-800 p-4 rounded-lg">
-                    <img src="Visualizações\Rankings\ranking_métrica_composta.png" alt="Gráfico do Top 10 Métrica Composta" class="mx-auto max-h-[65vh] w-auto" onerror="this.onerror=null;this.src='https://placehold.co/900x450/161b22/E0E0E0?text=Erro+ao+carregar+gráfico';">
-                </div>
-            </div>
-        </section>
-
-    <!--
         <section class="slide flex-col items-center justify-center p-8">
             <div class="slide-content">
-                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Discussão: A Rede Materializa a Missão?</h2>
-                <div class="grid md:grid-cols-2 gap-6 text-left text-lg">
-                    <div class="bg-gray-800 p-6 rounded-lg border-l-4 border-green-400">
-                        <h3 class="font-bold text-2xl mb-3">Pontos de Convergência</h3>
-                        <ul class="list-disc list-inside space-y-2">
-                            <li>Centralidade de temas como "Cultura" e "Associativismo" confirma o foco em narrativas de potência.</li>
-                            <li>Diversidade de clusters supera a visão monolítica da favela.</li>
-                        </ul>
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Métricas Fundamentais de Análise</h2>
+                 <div class="space-y-4 text-left text-lg">
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                        <p><strong class="text-blue-300">Centralidade de Grau (Degree):</strong> É a medida mais direta de influência, contando o nº de conexões de um nó. Identifica os "hubs" locais.</p>
                     </div>
-                    <div class="bg-gray-800 p-6 rounded-lg border-l-4 border-yellow-400">
-                        <h3 class="font-bold text-2xl mb-3">Pontos de Tensão</h3>
-                         <ul class="list-disc list-inside space-y-2">
-                            <li>**Nós Periféricos:** Quais saberes importantes (saneamento, saúde mental) ainda estão nas margens da rede?</li>
-                            <li>**Buracos Estruturais:** Existem poucas pontes entre clusters que deveriam dialogar mais?</li>
-                        </ul>
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                         <p><strong class="text-blue-300">Centralidade de Intermediação (Betweenness):</strong> Calcula a frequência com que um nó aparece nos <strong>caminhos mais curtos</strong> entre outros pares de nós. Um verbete com alta intermediação atua como "ponte" para o fluxo de informação entre diferentes clusters.</p>
+                    </div>
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                         <p><strong class="text-blue-300">Centralidade de Proximidade (Closeness):</strong> Mede a eficiência de um nó em alcançar todos os outros. É calculada como o inverso da <strong>soma das distâncias mais curtas</strong> para todos os demais. Alta proximidade significa rápida disseminação de informação.</p>
+                    </div>
+                     <div class="bg-gray-800 p-4 rounded-lg">
+                         <p><strong class="text-blue-300">PageRank:</strong> Atribui um peso de importância recursiva. Diferente do Grau, considera que links de nós já importantes **transferem mais prestígio**. Um verbete é central se recebe links de outros verbetes também centrais.</p>
+                    </div>
+                    <div class="bg-gray-800 p-4 rounded-lg">
+                         <p><strong class="text-blue-300">Restrição (Constraint):</strong> Mede se um verbete está "preso" a um cluster. Baixa restrição indica um verbete interdisciplinar.</p>
                     </div>
                 </div>
-                 <p class="mt-8 text-xl bg-gray-700 p-4 rounded-lg">A rede reflete a missão, mas também revela que a construção de uma narrativa contra-hegemônica é um processo contínuo, com suas próprias centralidades e marginalidades.</p>
             </div>
         </section>
 
+        <section class="slide flex-col items-center justify-center p-8">
+             <div class="slide-content">
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Próximos Passos: Redes Heterogêneas</h2>
+                <div class="text-center bg-gray-800 p-8 rounded-lg text-xl space-y-4">
+                     <p>A análise atual focou em uma rede **unimodal** (apenas verbetes). O próximo passo é explorar **redes heterogêneas**, que contêm múltiplos tipos de nós.</p>
+                     <p class="text-blue-300 font-bold">Essa abordagem permite investigar a interação entre verbetes e outras entidades (Categorias, Autores), revelando padrões estruturais ocultos.</p>
+                 </div>
+            </div>
+        </section>
+
+        <section class="slide flex-col items-center justify-center p-8">
+            <div class="slide-content">
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Rede Heterogênea I: Verbetes e Categorias</h2>
+                <div class="bg-gray-800 p-8 rounded-lg text-left text-xl">
+                    <p class="mb-6"><strong class="text-blue-300">Estrutura:</strong> Uma rede com dois tipos de nós (verbetes e categorias), onde uma aresta conecta um verbete à sua categoria.</p>
+                    <h3 class="font-bold text-2xl mb-3 text-blue-300">Questões de Pesquisa:</h3>
+                    <ul class="list-disc list-inside space-y-2">
+                        <li>Quais categorias são mais centrais na organização do conhecimento?</li>
+                        <li>Podemos identificar clusters temáticos baseados no compartilhamento de categorias?</li>
+                        <li>Categorias que atuam como "pontes" conectam quais áreas do conhecimento?</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
+        <section class="slide flex-col items-center justify-center p-8">
+            <div class="slide-content">
+                <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Rede Heterogênea II: Verbetes e Autores</h2>
+                <div class="bg-gray-800 p-8 rounded-lg text-left text-xl">
+                    <p class="mb-6"><strong class="text-blue-300">Estrutura:</strong> Uma rede com nós de verbetes e de autores, onde uma aresta significa que um autor editou um verbete.</p>
+                    <h3 class="font-bold text-2xl mb-3 text-blue-300">Questões de Pesquisa:</h3>
+                    <ul class="list-disc list-inside space-y-2">
+                        <li>Quais são os autores mais influentes na construção da enciclopédia?</li>
+                        <li>Existem "comunidades de prática" de autores que editam os mesmos verbetes?</li>
+                        <li>Autores que editam verbetes-ponte são, eles mesmos, centrais na comunidade?</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+        
+        <!--
         <section class="slide flex-col items-center justify-center p-8">
             <div class="slide-content">
                 <h2 class="text-4xl md:text-5xl font-bold text-blue-400 mb-8">Conclusões e Trabalhos Futuros</h2>
@@ -336,7 +264,7 @@
                         <h3 class="font-bold text-2xl mb-2 text-blue-300">Conclusões</h3>
                         <ul class="list-disc list-inside space-y-2">
                             <li>O Wikifavelas é uma complexa rede sociotécnica onde governança e tecnologia moldam ativamente o conhecimento.</li>
-                            <li>A análise da topologia revela um alinhamento geral com a missão contra-hegemônica, mas também aponta lacunas e novas centralidades.</li>
+                            <li>A análise da topologia revela um alinhamento com a missão contra-hegemônica, mas também aponta lacunas e novas centralidades.</li>
                             <li>A abordagem combinada (TAR + Redes) mostrou-se potente para "abrir a caixa-preta" de plataformas colaborativas.</li>
                         </ul>
                     </div>
@@ -344,8 +272,8 @@
                          <h3 class="font-bold text-2xl mb-2 text-blue-300">Trabalhos Futuros</h3>
                         <ul class="list-disc list-inside space-y-2">
                             <li>Análise longitudinal (evolução da rede no tempo).</li>
-                            <li>Análise da rede de autores.</li>
-                            <li>Estudo etnográfico com os colaboradores.</li>
+                            <li>Análise das redes heterogêneas de autores e categorias.</li>
+                            <li>Estudo etnográfico com os colaboradores para cruzar dados quantitativos e qualitativos.</li>
                         </ul>
                     </div>
                 </div>
@@ -371,7 +299,7 @@
         <button id="prev-btn" class="p-3 rounded-full bg-gray-700 hover:bg-blue-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" /></svg>
         </button>
-        <div id="slide-counter" class="text-lg font-bold w-16 text-center">1 / 23</div>
+        <div id="slide-counter" class="text-lg font-bold w-16 text-center">1 / 15</div>
         <button id="next-btn" class="p-3 rounded-full bg-gray-700 hover:bg-blue-500 disabled:opacity-50 disabled:cursor-not-allowed transition-colors">
             <svg xmlns="http://www.w3.org/2000/svg" class="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" /></svg>
         </button>
@@ -422,6 +350,8 @@
             }
         });
 
+        // Atualiza o contador inicial
+        slideCounter.textContent = `1 / ${totalSlides}`;
         showSlide(0);
     </script>
 
