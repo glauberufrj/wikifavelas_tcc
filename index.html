@@ -64,17 +64,25 @@
             transition: background-color 0.3s ease, transform 0.2s ease;
             display: block;
         }
-        .btn:hover {
+        .btn:hover:not([disabled]) {
             background-color: #2980b9;
             transform: translateY(-2px);
+        }
+        /* ESTILO PARA DESABILITAR VISUALMENTE */
+        .btn[disabled] { 
+            /* Esta regra CSS é crucial para links <a> com o atributo disabled*/
+            background-color: #a0a0a0; 
+            cursor: not-allowed;
+            pointer-events: none; /* Impede o clique mesmo que o link esteja visível */
+            opacity: 0.6;
         }
     </style>
 </head>
 <body>
 
     <div class="container">
-        <h1 style="text-align: left;">Uma Análise da Rede Sociotécnica do Wikifavelas</h1>
-        
+        <h1 style="text-align: left;">METRIFICAR, VISUALIZAR, NAVEGAR:</h1>
+        <h3 style="text-align: left;">A REDE SOCIOTÉCNICA DE COLABORAÇÃO E PRODUÇÃO DO CONHECIMENTO DA WIKIFAVELAS</h3>
         <div class="academic-info">
             <p><strong>Universidade:</strong> Universidade Federal Fluminense</p>
             <p><strong>Curso:</strong> Sistemas de Informação</p>
@@ -86,13 +94,14 @@
         </p>
 
         <div class="nav-buttons">
-            <a href="public/grafo_wikifavelas_final_20250829_123432.html" class="btn">Grafo de Comunidades (Clusters)</a>
-            <a href="public/grafo_betweenness_20250812_202241.html" class="btn">Grafo por Centralidade de Intermediação (Betweenness)</a>
-            <a href="public/grafo_closeness_percentil_20250812_205052.html" class="btn">Grafo por Centralidade de Proximidade (Closeness)</a>
-            <a href="public/grafo_degree_percentil_20250812_205102.html" class="btn">Grafo por Centralidade de Grau (Degree)</a>            
-            <a href="public/grafo_edicoes_percentil_20250812_205108.html" class="btn">Grafo por Quantidade de Edições</a>
-            <a href="public/grafo_metrica_composta_percentil_20250812_210643.html" class="btn">Grafo por Métrica Composta</a>
-            <a href="public/grafo_constraint_percentil_20250814_011449.html" class="btn">Grafo por Métrica de Restrição (Constraint)</a>
+            <a href="public/Visoes_com_tratamento_redirecionamento/grafo_wikifavelas_final_20251024_235733.html" class="btn">Grafo de Comunidades (Clusters)</a>
+            
+            <a href="public/grafo_betweenness_20250812_202241.html" class="btn" disabled>Grafo por Centralidade de Intermediação (Betweenness)</a>
+            <a href="public/grafo_closeness_percentil_20250812_205052.html" class="btn" disabled>Grafo por Centralidade de Proximidade (Closeness)</a>
+            <a href="public/grafo_degree_percentil_20250812_205102.html" class="btn" disabled>Grafo por Centralidade de Grau (Degree)</a>
+            <a href="public/grafo_edicoes_percentil_20250812_205108.html" class="btn" disabled>Grafo por Quantidade de Edições</a>
+            <a href="public/grafo_metrica_composta_percentil_20250812_210643.html" class="btn" disabled>Grafo por Métrica Composta</a>
+            <a href="public/grafo_constraint_percentil_20250814_011449.html" class="btn" disabled>Grafo por Métrica de Restrição (Constraint)</a>
         </div>
     </div>
 
